@@ -31,5 +31,6 @@ namespace Medium.API.Controllers
 
             return Ok(result);
         }
+
     }
 }
