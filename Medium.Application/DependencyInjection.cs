@@ -1,13 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using MediatR;
-using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 using Medium.Application.Absatractions.Mapper;
+using Medium.Domain.Entities;
+
 
 namespace Medium.Application
 {
